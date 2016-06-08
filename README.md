@@ -1,2 +1,2 @@
-# hello-word
-My first repository
+# Hello-word
+My feature first repository
